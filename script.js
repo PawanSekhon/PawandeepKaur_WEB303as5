@@ -7,11 +7,11 @@ $(document).ready(function () {
 
     // Defining ContentItem objects
     const contentItems = [
-      new ContentItem(0, "Item 1", "Description 1", "Category 1"),
-      new ContentItem(1, "Item 2", "Description 2", "Category 2"),
-      new ContentItem(2, "Item 3", "Description 3", "Category 3"),
-      new ContentItem(3, "Item 4", "Description 4", "Category 4"),
-      new ContentItem(4, "Item 5", "Description 5", "Category 5"),
+      new ContentItem(0, "Sidhu Moosewala", "A young well-known Punjabi boy from a small town of Punjab, India done his work so well in music industry that Hollywood actors want to do collaboration with him.Unfortunatelly, group of gangsters attacked him and he died in hin 20's", "Category: Singer and Actor"),
+      new ContentItem(1, "Bhagwant Singh Maan", "Bhagwant Maan, now, is Cheif Minister  of Punjab State in India. But, initailly made his space in the punabi movie industry as a comedian. Then he persued his career in the industry as a singer and actor.", "Category: Singer, Actor and Politician"),
+      new ContentItem(2, "Milkha Singh", "He is the only athlete in punjab who has numerous Worlds Records on his name and who was also invites by ministery of Punjab, Pakistan to run even after partition of both countries.", "Category:Athlete"),
+      new ContentItem(3, "Manmohan Singh", "He is the only sikh Ex Prime Minister of India who had ruled over 10-15 years. He was very kind and generous to people during his charge.", "Category: Politician"),
+      new ContentItem(4, "Diljit Dosanjh", "Most famous Punjabi singer of the time who also did debut as a actor in Hollywood. He is the only singer who took Punjabi music industry to next level.", "Category: Singer and Actors."),
     ];
   
     // Function to add a ContentItem to the page
